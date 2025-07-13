@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://safwankajas2.netlify.app
+
+# Sitemaps
+Sitemap: https://safwankajas2.netlify.app/sitemap.xml
