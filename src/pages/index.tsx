@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Layout } from "./layout";
+import { Layout } from "../components/layout";
 import { projects } from "@/data/home";
 import { HomeProps } from "@/types/home";
 
